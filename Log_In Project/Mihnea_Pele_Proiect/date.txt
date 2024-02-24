@@ -1,0 +1,36 @@
+da
+da
+Numele cainelui tau ?
+da
+Mancarea preferata ? 
+da
+Sportul preferat ? 
+da
+ ==================
+nu
+nu
+Numele cainelui tau ?
+nu
+Mancarea preferata ? 
+nu
+Sportul preferat ? 
+nu
+ ==================
+fsfsdfsdfds
+sdfsdfsd
+Numele cainelui tau ?
+fdfsfsdf
+Mancarea preferata ? 
+sdfsdfsd
+Sportul preferat ? 
+dsfdsf
+ ==================
+nu
+nsaddadasdasdas
+Numele cainelui tau ?
+nu
+Mancarea preferata ? 
+nu
+Sportul preferat ? 
+nu
+ ==================
